@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  priyanshuchoubey.dev - Personal Portfolio
+  priyanshuchoubey.dev - Personal Portfolio website 
 </h1>
 
 <p align="center">
